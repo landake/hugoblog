@@ -3,7 +3,7 @@ git clone https://github.com/landake/hugoblog.git
 cd hugoblog  
 sh build.sh  
 sh run.sh  
-
+.
 # 周末作业
 1. 在github创建一个库  
 2. 创建hugo博客  
