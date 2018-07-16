@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Lanxiaoke</title>
+    <link>http://localhost:1313/topics/</link>
+    <description>Recent content in Topics on Lanxiaoke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>xiaoke.lan@hand-china.com (Lanxiaoke)</managingEditor>
+    <webMaster>xiaoke.lan@hand-china.com (Lanxiaoke)</webMaster>
+    <copyright>(c) 2018 lxk.</copyright>
+    
+	<atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
