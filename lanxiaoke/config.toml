@@ -33,7 +33,7 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "lanxiaoke"
+    name = "Lanxiaoke"
     email = "xiaoke.lan@hand-china.com"
 
 #
@@ -41,8 +41,8 @@ disqusShortname = "your_disqus_shortname"
 #
 [params]
     # You can use markdown here.
-    brand = "lanxiaoke"
-    topline = "this is lanxiaoke's blog"
+    brand = "Lanxiaoke"
+    topline = "this is Lanxiaoke's blog"
     footline = "code with <i class='fa fa-heart'></i>"
 
     # Sidebar position
